@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ادیت‌یار</string>
+    <string name="app_subtitle">برنامه‌ریزی روزانه</string>
+    <string name="splash_tagline">روزت را ساده‌تر بچین.</string>
+    <string name="start_planning">شروع برنامه‌ریزی</string>
+
+    <string name="menu_home">خانه</string>
+    <string name="menu_ideas">ایده‌ها / بعداً</string>
+    <string name="menu_projects">پروژه‌ها</string>
+    <string name="menu_completed">انجام‌شده‌ها</string>
+    <string name="menu_settings">تنظیمات</string>
+    <string name="menu_about">درباره برنامه</string>
+
+    <string name="add_task">افزودن کار</string>
+    <string name="task_name">نام کار</string>
+    <string name="start_time">زمان شروع</string>
+    <string name="duration_minutes">مدت زمان (دقیقه)</string>
+    <string name="save">ذخیره</string>
+    <string name="cancel">انصراف</string>
+    <string name="edit">ویرایش</string>
+    <string name="delete">حذف</string>
+    <string name="mark_done">انجام شد</string>
+    <string name="overlap_warning">این کار با کار دیگری هم‌زمان است</string>
+    <string name="reset_schedule">تنظیم مجدد</string>
+    <string name="empty_home">هنوز کاری اضافه نکرده‌ای. با دکمه + شروع کن.</string>
+
+    <string name="idea_hint">ایده یا کار غیرضروری‌ات را اینجا بنویس…</string>
+    <string name="convert_to_task">تبدیل به کار</string>
+
+    <string name="break_enabled">استراحت فعال باشد</string>
+    <string name="break_duration">مدت استراحت</string>
+
+    <string name="about_name">علی مسجدی</string>
+    <string name="about_role">ادیتور و تولیدکننده محتوا</string>
+    <string name="about_note">سازنده این برنامه</string>
+
+    <string name="new_project">پروژه جدید</string>
+    <string name="project_name">نام پروژه</string>
+</resources>
