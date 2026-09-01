@@ -8,6 +8,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import com.editro.dailyplanner.ui.components.GlassCard
 import com.editro.dailyplanner.ui.theme.Gold
+import androidx.compose.ui.unit.dp
 import com.editro.dailyplanner.ui.theme.TextGray
 
 @Composable
